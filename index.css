@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+
+
+
+nav{
+    background-color: #ffb996;
+}
+
+.vl {
+    border-left: 0.25em solid #004669 ;
+    height: 3em;
+    border-radius: 25%;
+    margin: 0px 30px;
+}
+
+a{
+    color:#004669 ;
+}
+
+#logo{
+    height: 70px;
+
+}
