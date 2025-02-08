@@ -1,25 +1,23 @@
-*{
-    margin: 0;
+* {
+  margin: 0;
 }
 
-
-
-nav{
-    background-color: #ffb996;
+nav {
+  background-color: #ffb996;
+  margin-bottom: 50px;
 }
 
 .vl {
-    border-left: 0.25em solid #004669 ;
-    height: 3em;
-    border-radius: 25%;
-    margin: 0px 30px;
+  border-left: 0.25em solid #004669;
+  height: 3em;
+  border-radius: 25%;
+  margin: 0px 30px;
 }
 
-a{
-    color:#004669 ;
+a {
+  color: #004669;
 }
 
-#logo{
-    height: 70px;
-
+#logo {
+  height: 70px;
 }
